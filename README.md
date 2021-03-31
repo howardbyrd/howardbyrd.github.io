@@ -1,2 +1,2 @@
 # howardbyrd.github.io
-This is my website that displays two of my projects.
+This is my website that displays two projects I've worked on howardbyrd.github.io
