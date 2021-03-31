@@ -1,0 +1,42 @@
+body {
+	font-family: Helvetica;
+	font-size: 18px;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #020b19;
+	color: white;
+	padding: 20px;
+}
+h1 {
+	text-align: center;
+}
+html {
+	background-color: #202020;
+
+}
+img {
+	width: 1000px;
+}
+.links {
+	/*border: 2px solid white; */
+	color: white;
+	display: inline-block;
+	text-align: center;
+	padding: 15px;
+	width: 100px;
+	text-decoration: none;
+}
+.linkbar {
+	background-color: black;
+	margin-bottom: 20px;
+}
+.links:hover {
+	background-color: #202020;
+}
+hr {
+	border: 1px solid white;
+}
+a {
+	text-decoration: none;
+}
